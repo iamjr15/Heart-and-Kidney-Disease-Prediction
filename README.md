@@ -29,28 +29,29 @@ To train any topic, follow the template located in `backend/train`. For example,
 To predict any topic, follow the template in `backend/predict`. For instance, to predict kidney normal/abnormal status, execute: `python backend\predict\kidney.py`.
 
 #### Feature Importance for Kidney Dataset
-![Feature Importance](screenshots/feature.png)
+  ![feature](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/03e75f57-7c0c-4cae-861b-c44cd9de5d4c)
 
 ### Model Performance Metrics Comparison for Heart and Kidney
 - **Heart**
-  ![Heart Metrics Comparison](screenshots/modelperfheart.png)
+  ![modelperfheart](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/f3ff1bdd-4085-472c-a493-c7a923930658)
   
 - **Kidney**
-  ![Kidney Metrics Comparison](screenshots/modelperfkidney.png)
+  ![modelperfkidney](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/d43622ee-fcef-4328-b9d1-c443ca2dceea)
 
 ### Frontend Folder
 Run the frontend via `streamlit run frontend/app.py`. Find the screenshots below:
 
 #### Key Feature: App Navigation Option
-![App Navigation](screenshots/appnav.png)
+![appnav](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/d35bb6fb-dce8-4211-8eca-b6608941563a)
+
 
 #### Heart Screenshots
-- ![Heart Screenshot 1](screenshots/heart1.png)
-- ![Heart Screenshot 2](screenshots/heart2.png)
-- ![Heart Screenshot 3](screenshots/heart3.png)
+- ![heart1](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/92e2ce60-7d2a-45f7-9800-fa0e5f60177a)
+- ![heart2](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/4179653c-9709-4eff-92bf-755c612ee007)
+- ![heart3](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/f265ba9a-7a52-4b88-a5b5-ae8c01e81b2e)
 
 #### Kidney Screenshots
-- ![Kidney Screenshot 1](screenshots/kidney1.png)
-- ![Kidney Screenshot 2](screenshots/kidney2.png)
-- ![Kidney Screenshot 3](screenshots/kidney3.png)
-- ![Kidney Screenshot 4](screenshots/kidney4.png)
+- ![kidney1](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/e1f0168f-83fa-4a28-a183-48fc8933d0fb)
+- ![kidney2](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/6c2c0885-f95c-48f4-9bba-d9e75d99e899)
+- ![kidney3](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/961d08ec-cba0-4959-9177-5f2c05af0e6b)
+- ![kidney4](https://github.com/iamjr15/Heart-and-Kidney-Disease-Prediction/assets/48449428/e59a2166-d3d5-4483-ba21-97006a37e04a)
